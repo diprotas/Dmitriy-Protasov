@@ -1,1 +1,1 @@
-Juphyter-блокноты по курсу Data Science Pro
+Jupyter-блокноты по курсу Data Science Pro
